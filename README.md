@@ -1,1 +1,1 @@
-# GenerikName.github.io
+GenerikName.github.io
