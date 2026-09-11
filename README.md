@@ -1,1 +1,1 @@
-GenerikName.github.io
+https://generikname.github.io/
